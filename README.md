@@ -12,10 +12,10 @@ Find more details about this challenge from below links:
 
 ## Companies and their 15 coding questions:
 1. Microsoft:
-- [ ] You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
-- [ ] Combination Sum with a twist.
-- [ ] Bulls and Cows
-- [ ] You are given an integer array nums of length n. Return maximum length of Rotation Function.
+- [x] You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+- [x] Combination Sum with a twist.
+- [x] Bulls and Cows
+- [x] You are given an integer array nums of length n. Return maximum length of Rotation Function.
 - [ ] Largest Divisible Subset.
 - [ ] How to find a perfect Rectangle.
 - [ ] Scheduling a Course.
