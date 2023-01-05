@@ -1,5 +1,5 @@
 /*question details
-name: Deletions to make an array divisible.
+name: Substrings containing all three Characters
 link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 submission link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/871842913/
 */
